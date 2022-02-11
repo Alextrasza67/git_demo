@@ -1,1 +1,3 @@
-[Jira num] {commit_msg} 
+<type>: <subject>
+
+<body>
