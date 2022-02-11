@@ -1,1 +1,1 @@
-[Jira num] {commit_msg} 
+[Jira num] {commit_msg}  
